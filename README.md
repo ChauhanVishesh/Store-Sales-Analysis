@@ -5,6 +5,8 @@ DATA CLEANING & PREPROCESSING:
 - Created new columns:
                 - Age Group
                 - Month
+
+  
 IMPORTANT TRENDS & PATTERNS UNCOVERED:
 - Women account for 64% of sales. Adult women (aged 30 and above) account for 40% of sales.
 - Most sales are made on Amazon(35%) and Myntra(23%).
